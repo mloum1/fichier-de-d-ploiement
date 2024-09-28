@@ -5,6 +5,6 @@ fichier de déploiement global pour les besoins de déploiement sur netlify afin
 1. Configurer les variables d'environment de netlify
 2. Ajoute une variable comme suit :
    ```bash
-   NETLIFY_TOML_REPO=https://github.com/ton-utilisateur/mon-repo-netlify-toml
+   NETLIFY_TOML_REPO=https://github.com/mloum1/mon-repo-netlify-toml
    ```
 
