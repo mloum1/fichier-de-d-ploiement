@@ -5,6 +5,6 @@ fichier de déploiement global pour les besoins de déploiement sur netlify afin
 1. Configurer les variables d'environment de netlify
 2. Ajoute une variable comme suit :
    ```bash
-   NETLIFY_TOML_REPO=https://github.com/mloum1/mon-repo-netlify-toml
+   NETLIFY_TOML_REPO=https://github.com/mloum1/fichier-de-d-ploiement
    ```
-
+> ⚠️ **Warning**: Il faut penser à faire le build de votre projet avant le déploiement pour obtenir le dossier **dist/browser**
